@@ -27,8 +27,8 @@ I began to study JavaScript some months ago. But today I can say it's perfect di
       let str = num.toString(16);
       return (str.length < 2) ? ('0' + str).toUpperCase() : str.toUpperCase();
     }
-  return Array.from(arguments).map(convert).join('');
-}
+    return Array.from(arguments).map(convert).join('');
+  }
 ```
 ****
 
@@ -42,7 +42,7 @@ I began to study JavaScript some months ago. But today I can say it's perfect di
 * JavaScript/Front-end stage0, [RS School](https://rs.school/)
 ****
 
-## English
+## Languages
 * Belarusian (native)
 * Russian (native)
 * English (intermediate B1)
